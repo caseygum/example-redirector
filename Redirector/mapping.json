@@ -1,0 +1,7 @@
+{
+  "defaultDestination": "https://www.google.com?q=Default+Destination",
+  "mappings": {
+    "/docs/DOC-12345": "https://www.google.com?q=Destination of DOC-12345",
+    "/docs/DOC-54321": "https://www.google.com?q=Destination of DOC-54321"
+  }
+}
